@@ -1,17 +1,28 @@
-# flutter_application_1
+# QR Scanner & Generator
 
-A new Flutter project.
+A Flutter application that allows users to scan QR codes and generate QR codes from text input.
+
+## Features
+
+* Scan QR codes
+* Generate QR codes from text
+* Real-time QR scanning
+* Simple and responsive interface
+* Flutter Web support
+
+## Tech Stack
+
+* Flutter
+* Dart
+* VS Code
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub get
+flutter run -d chrome
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Project Purpose
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was built to practice Flutter application development, UI design, package integration, and handling QR scanning/generation functionality.
